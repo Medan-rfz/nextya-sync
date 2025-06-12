@@ -88,7 +88,7 @@ export YANDEX_TOKEN="y0_your_token_here"
 export NEXTCLOUD_URL="https://cloud.example.com"
 export NEXTCLOUD_USERNAME="myuser"
 export NEXTCLOUD_PASSWORD="mypassword"
-export NEXTCLOUD_SYNC_PATHS="/Documents,/Photos"
+export NEXTCLOUD_SYNC_PATHS="/Documents /Photos"
 export YANDEX_TARGET_PATH="/backup/nextcloud"
 
 # Set the path to your binary
